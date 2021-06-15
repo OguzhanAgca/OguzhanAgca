@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @OguzhanAgca
 - 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning JavaScript, PHP, ReactJS
+
 
 <!---
 OguzhanAgca/OguzhanAgca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
