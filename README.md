@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/l3q2RJBdaqJY2SV3O/source.gif" align="right" width="300"/>
+<img src="https://media.giphy.com/media/l3q2RJBdaqJY2SV3O/source.gif" align="right" width="300" height="250"/>
 
 ### Hi there, I'm Oguzhan. :blush:
 
